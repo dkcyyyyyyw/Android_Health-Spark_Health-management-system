@@ -1,0 +1,1881 @@
+{
+  "menu": [
+    {
+      "typeId": 0,
+      "title": "土豆卷丝饼饼",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201903/0511/051127072118.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/101324355.html"
+    },
+    {
+      "typeId": 0,
+      "title": "土豆饼",
+      "img": "https://s4.cdn.jiaonizuocai.com/caipu/201701/24135886e46fb935e.gif/MHgw.webp",
+      "url": "https://www.xiangha.com/caipu/92025692.html"
+    },
+    {
+      "typeId": 0,
+      "title": "烤鸡蛋",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201603/2514/251444549128.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/81264879.html"
+    },
+    {
+      "typeId": 0,
+      "title": "小米南瓜粥",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201901/2112/211204232853.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/101460417.html"
+    },
+    {
+      "typeId": 0,
+      "title": "金色馒头",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201608/1711/171113219542.jpg/NjAwX2MxXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/87084703.html"
+    },
+    {
+      "typeId": 0,
+      "title": "香煎玉米饼",
+      "img": "https://s4.cdn.jiaonizuocai.com/caipu/201507/0907/090712155197.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/77111538.html"
+    },
+    {
+      "typeId": 0,
+      "title": "酱油炒饭",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201903/0722/072249515885.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/101814231.html"
+    },
+    {
+      "typeId": 0,
+      "title": "素食沙拉",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201609/1512/151256456902.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/88914093.html"
+    },
+    {
+      "typeId": 0,
+      "title": "银耳莲子红枣汤",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201906/1108/110857561829.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/102419252.html"
+    },
+    {
+      "typeId": 0,
+      "title": "牛肉酥饼",
+      "img": "https://s4.cdn.jiaonizuocai.com/caipu/201509/2306/230630528391.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/78200611.html"
+    },
+    {
+      "typeId": 1,
+      "title": "风味茄子",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201904/2419/24193406413.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/102157475.html"
+    },
+    {
+      "typeId": 1,
+      "title": "香煎鸡胸肉",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201605/1716/171614023870.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/83718100.html"
+    },
+    {
+      "typeId": 1,
+      "title": "菲力牛排",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201609/2717/271721092937.jpg/NjAwX2MxXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/89513078.html"
+    },
+    {
+      "typeId": 1,
+      "title": "牛肉火锅",
+      "img": "https://s4.cdn.jiaonizuocai.com/caipu/201505/0813/081338089838.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/76707585.html"
+    },
+    {
+      "typeId": 1,
+      "title": "⁮肉末酱烧茄子",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201609/1008/240917434863.jpg/NjAwX2MxXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/88590552.html"
+    },
+    {
+      "typeId": 1,
+      "title": "红烧排骨",
+      "img": "https://s4.cdn.jiaonizuocai.com/caipu/201706/2917/291729208201.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/95050905.html"
+    },
+    {
+      "typeId": 1,
+      "title": "土豆烧鸡",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201907/2820/282002401997.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/102663689.html"
+    },
+    {
+      "typeId": 1,
+      "title": "家常豆腐",
+      "img": "https://s4.cdn.jiaonizuocai.com/caipu/202203/0521/052139192194.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/177915649.html"
+    },
+    {
+      "typeId": 1,
+      "title": "红烧小黄鱼",
+      "img": "https://s4.cdn.jiaonizuocai.com/caipu/201901/2819/281922526501.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/101582711.html"
+    },
+    {
+      "typeId": 1,
+      "title": "蒜苗回锅肉",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201702/2115/211555502623.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/92409788.html"
+    },
+    {
+      "typeId": 2,
+      "title": "心太软",
+      "img": "https://s4.cdn.jiaonizuocai.com/caipu/201901/2615/261521435197.jpg/NjAwX2MxXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/101543211.html"
+    },
+    {
+      "typeId": 2,
+      "title": "咖啡石头饼干",
+      "img": "https://www.xiangha.com/caipu/103764112.html",
+      "url": "https://s1.cdn.jiaonizuocai.com/caipu/202004/2016/201637517863.jpg/NjAwX2MyXzQwMA.webp"
+    },
+    {
+      "typeId": 2,
+      "title": "炸香蕉球",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/202003/2420/242016203661.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/103625602.html"
+    },
+    {
+      "typeId": 2,
+      "title": "肉桂卷",
+      "img": "https://s4.cdn.jiaonizuocai.com/caipu/201507/2109/210900229938.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/77268962.html"
+    },
+    {
+      "typeId": 2,
+      "title": "爆浆红薯饼",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201906/2113/21134237535.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/102474066.html"
+    },
+    {
+      "typeId": 2,
+      "title": "紫薯爆浆蛋",
+      "img": "https://s4.cdn.jiaonizuocai.com/caipu/202210/2513/251348259930.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/178176085.html"
+    },
+    {
+      "typeId": 2,
+      "title": "牛奶布丁",
+      "img": "https://s4.cdn.jiaonizuocai.com/caipu/201903/1213/121329249945.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/101845685.html"
+    },
+    {
+      "typeId": 2,
+      "title": "双皮奶",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201903/1622/162208432741.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/101906027.html"
+    },
+    {
+      "typeId": 2,
+      "title": "红糖姜软糖",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201601/2621/262153149271.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/80279768.html"
+    },
+    {
+      "typeId": 2,
+      "title": "酸梅汤",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201704/1111/111243055356.jpg/MjUwX2MyOjEvM15yYjI6MS84XzE4MA.webp",
+      "url": "https://www.xiangha.com/caipu/93497227.html"
+    },
+    {
+      "typeId": 3,
+      "title": "大盘鸡",
+      "img": "https://s4.cdn.jiaonizuocai.com/caipu/201902/2108/210831159320.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/101684017.html"
+    },
+    {
+      "typeId": 3,
+      "title": "麻辣豆腐",
+      "img": "https://s4.cdn.jiaonizuocai.com/caipu/201902/1921/192103407170.jpg/NjAwX2MxXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/101672400.html"
+    },
+    {
+      "typeId": 3,
+      "title": "日式肥牛饭",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201808/1101/110109378790.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/100836203.html"
+    },
+    {
+      "typeId": 3,
+      "title": "干锅花菜",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201902/0109/010926086893.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/101600308.html"
+    },
+    {
+      "typeId": 3,
+      "title": "红烧狮子头",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201601/3116/311645539073.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/80367552.html"
+    },
+    {
+      "typeId": 3,
+      "title": "粉蒸肉",
+      "img": "https://s4.cdn.jiaonizuocai.com/caipu/201507/2518/251818255569.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/77334438.html"
+    },
+    {
+      "typeId": 3,
+      "title": "红烧牛肉",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201708/0109/010928181332.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/95545705.html"
+    },
+    {
+      "typeId": 3,
+      "title": "剁椒鱼头 ",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201612/1815/181558389772.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/91303460.html"
+    },
+    {
+      "typeId": 3,
+      "title": "糖醋排骨",
+      "img": "https://s4.cdn.jiaonizuocai.com/caipu/201902/2523/252314284994.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/101727988.html"
+    },
+    {
+      "typeId": 3,
+      "title": "西葫芦炒肉",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201604/2216/22161027357.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/82835526.html"
+    },
+    {
+      "typeId": 4,
+      "title": "烤红薯",
+      "img": "https://s4.cdn.jiaonizuocai.com/caipu/201801/0723/07232806434.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/99675168.html"
+    },
+    {
+      "typeId": 4,
+      "title": "孜然烤翅",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201708/1110/111000498718.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/95685290.html"
+    },
+    {
+      "typeId": 4,
+      "title": "武汉热干面",
+      "img": "https://s4.cdn.jiaonizuocai.com/caipu/201605/2116/211613239066.jpg/NjAwX2MxXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/84004191.html"
+    },
+    {
+      "typeId": 4,
+      "title": "汤圆",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201804/0916/091611145289.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/100216579.html"
+    },
+    {
+      "typeId": 4,
+      "title": "香辣烤藕片",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201901/2223/222342546276.jpg/NjAwX2MxXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/101481292.html"
+    },
+    {
+      "typeId": 4,
+      "title": "锅贴饺子",
+      "img": "https://s4.cdn.jiaonizuocai.com/caipu/201705/1400/140015008441.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/94203295.html"
+    },
+    {
+      "typeId": 4,
+      "title": "炸年糕",
+      "img": "https://s4.cdn.jiaonizuocai.com/caipu/201608/2421/031628596258.jpg/NjAwX2MxXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/87368782.html"
+    },
+    {
+      "typeId": 4,
+      "title": "蒜香鸡爪",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201704/1210/261402131222.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/93518526.html"
+    },
+    {
+      "typeId": 4,
+      "title": "橙皮蜜饯",
+      "img": "https://s4.cdn.jiaonizuocai.com/caipu/202002/0621/062121066280.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/103355851.html"
+    },
+    {
+      "typeId": 4,
+      "title": "香煎藕饼",
+      "img": "https://s1.cdn.jiaonizuocai.com/caipu/201901/1519/151902539248.jpg/NjAwX2MyXzQwMA.webp",
+      "url": "https://www.xiangha.com/caipu/101415852.html"
+    }
+  ],
+  "food_energy": [
+    {
+      "typeId": 0,
+      "food": "白饭",
+      "quantity": "碗(135g)",
+      "heat": "200",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "粥",
+      "quantity": "碗(100g)",
+      "heat": "70",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "荞麦",
+      "quantity": "碗(100g)",
+      "heat": "337",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "富强粉",
+      "quantity": "碗(100g)",
+      "heat": "350",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "面筋",
+      "quantity": "个(100g)",
+      "heat": "140",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "黑米",
+      "quantity": "碗(100g)",
+      "heat": "333",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "小米",
+      "quantity": "碗(100g)",
+      "heat": "361",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "芝麻",
+      "quantity": "碗(100g)",
+      "heat": "517",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "玉米面",
+      "quantity": "碗(100g)",
+      "heat": "340",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "薏米",
+      "quantity": "碗(100g)",
+      "heat": "361",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "玉米",
+      "quantity": "碗(135g)",
+      "heat": "196",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "糙米",
+      "quantity": "碗(100g)",
+      "heat": "350",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "高粱米",
+      "quantity": "碗(135g)",
+      "heat": "351",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "挂面",
+      "quantity": "碗(100g)",
+      "heat": "347",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "馒头",
+      "quantity": "个(100g)",
+      "heat": "233",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "土豆粉",
+      "quantity": "碗(100g)",
+      "heat": "337",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "米粉",
+      "quantity": "碗(135g)",
+      "heat": "132",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "大麦",
+      "quantity": "碗(135g)",
+      "heat": "307",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "通心粉",
+      "quantity": "碗(135g)",
+      "heat": "132",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "面",
+      "quantity": "碗(135g)",
+      "heat": "280",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "方便面",
+      "quantity": "包(135g)",
+      "heat": "470",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "油饼",
+      "quantity": "个(100g)",
+      "heat": "399",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "麦皮",
+      "quantity": "碗(135g)",
+      "heat": "90",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "白面包",
+      "quantity": "片",
+      "heat": "120",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "法式面包",
+      "quantity": "片",
+      "heat": "80",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "松饼",
+      "quantity": "个",
+      "heat": "150",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "消化饼",
+      "quantity": "块",
+      "heat": "70",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "士力架",
+      "quantity": "块",
+      "heat": "32",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "脆面包",
+      "quantity": "块",
+      "heat": "25",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "甜面包",
+      "quantity": "块",
+      "heat": "210",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 0,
+      "food": "咸面包",
+      "quantity": "碗(135g)",
+      "heat": "170",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "瘦火腿",
+      "quantity": "片(30g)",
+      "heat": "25",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "烤猪扒",
+      "quantity": "块(100g)",
+      "heat": "300",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "烧牛肉",
+      "quantity": "片(30g)",
+      "heat": "58",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "午餐肉",
+      "quantity": "罐(100g)",
+      "heat": "350",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "煎香肠（牛）",
+      "quantity": "条",
+      "heat": "188",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "煎香肠（猪）",
+      "quantity": "条",
+      "heat": "220",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "烧鸭",
+      "quantity": "份（120g）",
+      "heat": "356",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "牛肉干",
+      "quantity": "条(100g)",
+      "heat": "550",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "肉鸡",
+      "quantity": "块(100g)",
+      "heat": "384",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "羊肉",
+      "quantity": "块（100g)",
+      "heat": "293",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "猪大肠",
+      "quantity": "斤(100g)",
+      "heat": "191",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "瘦猪肉",
+      "quantity": "斤(100g)",
+      "heat": "143",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "牛肝",
+      "quantity": "斤(100g)",
+      "heat": "139",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "羊肝",
+      "quantity": "斤(100g)",
+      "heat": "134",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "鸡肝",
+      "quantity": "斤(100g)",
+      "heat": "121",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "鹅肝",
+      "quantity": "斤(100g)",
+      "heat": "129",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "猪蹄筋",
+      "quantity": "斤(100g)",
+      "heat": "156",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "牛蹄筋",
+      "quantity": "斤(100g)",
+      "heat": "151",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "羊肉串",
+      "quantity": "个(100g)",
+      "heat": "217",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "猪大排",
+      "quantity": "斤(100g)",
+      "heat": "264",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "牛肚",
+      "quantity": "斤(100g)",
+      "heat": "72",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "兔肉",
+      "quantity": "斤(100g)",
+      "heat": "102",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "羊肚",
+      "quantity": "斤（100g）",
+      "heat": "87",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "鸡胗",
+      "quantity": "斤（100g）",
+      "heat": "118",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "鸡心",
+      "quantity": "个",
+      "heat": "172",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "鸭心",
+      "quantity": "块",
+      "heat": "143",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "卤猪杂",
+      "quantity": "100g",
+      "heat": "186",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "鸡腿",
+      "quantity": "100g",
+      "heat": "181",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "肉松",
+      "quantity": "100g",
+      "heat": "445",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "鸭血",
+      "quantity": "100g",
+      "heat": "58",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 1,
+      "food": "瘦火腿",
+      "quantity": "片(30g)",
+      "heat": "25",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "苹果",
+      "quantity": "个",
+      "heat": "55",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "橙子",
+      "quantity": "个",
+      "heat": "50",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "香蕉",
+      "quantity": "个",
+      "heat": "80",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "提子",
+      "quantity": "个",
+      "heat": "5",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "芒果",
+      "quantity": "个",
+      "heat": "125",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "荔枝",
+      "quantity": "粒",
+      "heat": "10",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "西柚",
+      "quantity": "个",
+      "heat": "40",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "牛油果",
+      "quantity": "个",
+      "heat": "280",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "雪梨",
+      "quantity": "个",
+      "heat": "45",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "菠萝",
+      "quantity": "片（120g）",
+      "heat": "50",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "猕猴桃",
+      "quantity": "个",
+      "heat": "30",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "桃子",
+      "quantity": "个",
+      "heat": "45",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "柿子",
+      "quantity": "个",
+      "heat": "90",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "葡萄",
+      "quantity": "个",
+      "heat": "50",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "橘子",
+      "quantity": "个",
+      "heat": "55 ",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "石榴",
+      "quantity": "个",
+      "heat": "124",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "草莓",
+      "quantity": "个",
+      "heat": "8",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "桂圆",
+      "quantity": "个(50g)",
+      "heat": "70",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "枣子",
+      "quantity": "斤(100g)",
+      "heat": "300",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "枇杷",
+      "quantity": "斤(50g)",
+      "heat": "32",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "芒果",
+      "quantity": "100g",
+      "heat": "64",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "柠檬",
+      "quantity": "100g",
+      "heat": "72",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "果丹皮",
+      "quantity": "斤（100g）",
+      "heat": "321",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "桑葚",
+      "quantity": "100g",
+      "heat": "49",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "橄榄",
+      "quantity": "100g",
+      "heat": "50",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "椰子",
+      "quantity": "50g",
+      "heat": "231",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "人参果",
+      "quantity": "100g",
+      "heat": "80",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "樱桃",
+      "quantity": "100g",
+      "heat": "55",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 2,
+      "food": "香瓜",
+      "quantity": "100g",
+      "heat": "30",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "干姜 ",
+      "quantity": "95g",
+      "heat": "273",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "蕨菜",
+      "quantity": "100g",
+      "heat": "251",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "竹笋",
+      "quantity": "64g",
+      "heat": "196",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "大蒜",
+      "quantity": "85g",
+      "heat": "125",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "毛豆",
+      "quantity": "53g",
+      "heat": "125",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "土豆",
+      "quantity": "100g",
+      "heat": "75",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "香椿",
+      "quantity": "100g",
+      "heat": "55",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "山药",
+      "quantity": "80g",
+      "heat": "50",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "洋葱",
+      "quantity": "90g",
+      "heat": "39",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "胡萝卜",
+      "quantity": "100g",
+      "heat": "40",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "香菜",
+      "quantity": "80g",
+      "heat": "30",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "小葱",
+      "quantity": "70g",
+      "heat": "25",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "菠菜",
+      "quantity": "100g",
+      "heat": "25",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "油菜",
+      "quantity": "100g",
+      "heat": "25",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "茼蒿",
+      "quantity": "80g",
+      "heat": "30",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "白菜",
+      "quantity": "100g",
+      "heat": "20",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "西葫芦",
+      "quantity": "100g",
+      "heat": "30",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "苦瓜",
+      "quantity": "100g",
+      "heat": "25",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "莴笋",
+      "quantity": "100g",
+      "heat": "30",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "豆芽",
+      "quantity": "100g",
+      "heat": "18",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "木耳",
+      "quantity": "75g",
+      "heat": "25",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "黄瓜",
+      "quantity": "100g",
+      "heat": "18",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "冬瓜",
+      "quantity": "100g",
+      "heat": "15",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "荷兰豆",
+      "quantity": "100g",
+      "heat": "30",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "大葱",
+      "quantity": "100g",
+      "heat": "33",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "辣椒",
+      "quantity": "100g",
+      "heat": "36",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "酸菜",
+      "quantity": "100g",
+      "heat": "14",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "韭菜",
+      "quantity": "100g",
+      "heat": "30",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 3,
+      "food": "豆角",
+      "quantity": "100g",
+      "heat": "32",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "海虾 ",
+      "quantity": "50g",
+      "heat": "49",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "鲜贝",
+      "quantity": "100g",
+      "heat": "77",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "牡蛎",
+      "quantity": "100g",
+      "heat": "73",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "蟹肉",
+      "quantity": "100g",
+      "heat": "63",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "章鱼",
+      "quantity": "100g",
+      "heat": "52",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "生蚝",
+      "quantity": "100g",
+      "heat": "57",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "草鱼",
+      "quantity": "100g",
+      "heat": "260",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "八爪鱼",
+      "quantity": "80g",
+      "heat": "135",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "沙丁鱼",
+      "quantity": "100g",
+      "heat": "150",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "石斑鱼",
+      "quantity": "100g",
+      "heat": "180",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "海参",
+      "quantity": "100g",
+      "heat": "71",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "扇贝",
+      "quantity": "70g",
+      "heat": "120",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "黄鳝",
+      "quantity": "100g",
+      "heat": "60",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "龙虾",
+      "quantity": "100g",
+      "heat": "180",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "田螺",
+      "quantity": "100g",
+      "heat": "210",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "鲍鱼",
+      "quantity": "100g",
+      "heat": "322",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "墨鱼",
+      "quantity": "100g",
+      "heat": "90",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "泥鳅",
+      "quantity": "100g",
+      "heat": "150",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "鳌虾",
+      "quantity": "30g",
+      "heat": "90",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "黄花鱼",
+      "quantity": "100g",
+      "heat": "150",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "比目鱼",
+      "quantity": "75g",
+      "heat": "105",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "海蜇",
+      "quantity": "100g",
+      "heat": "35",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "带鱼",
+      "quantity": "100g",
+      "heat": "160",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "鲤鱼",
+      "quantity": "50g",
+      "heat": "110",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "鲫鱼",
+      "quantity": "100g",
+      "heat": "226",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "梭子蟹",
+      "quantity": "100g",
+      "heat": "190",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "鱼子酱",
+      "quantity": "100g",
+      "heat": "252",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "海米",
+      "quantity": "100g",
+      "heat": "195",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 4,
+      "food": "面包鱼",
+      "quantity": "100g",
+      "heat": "166",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "黄油 ",
+      "quantity": "100g",
+      "heat": "892",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "奶油",
+      "quantity": "100g",
+      "heat": "720",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "黄油渣",
+      "quantity": "100g",
+      "heat": "599",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "奶粉",
+      "quantity": "100g",
+      "heat": "510",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "奶片",
+      "quantity": "100g",
+      "heat": "472",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "奶皮子",
+      "quantity": "100g",
+      "heat": "460",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "奶疙瘩",
+      "quantity": "100g",
+      "heat": "426",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "冰激凌粉",
+      "quantity": "100g",
+      "heat": "396",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "奶豆腐",
+      "quantity": "100g",
+      "heat": "343",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "炼乳",
+      "quantity": "100g",
+      "heat": "332",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "奶酪",
+      "quantity": "100g",
+      "heat": "328",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "酸奶",
+      "quantity": "100g",
+      "heat": "72",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "母乳",
+      "quantity": "100g",
+      "heat": "65",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "羊奶",
+      "quantity": "100g",
+      "heat": "59",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "牛奶",
+      "quantity": "100g",
+      "heat": "54",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "果味奶",
+      "quantity": "100g",
+      "heat": "20",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "奶片",
+      "quantity": "100g",
+      "heat": "472",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "果料酸奶",
+      "quantity": "100g",
+      "heat": "67",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "高钙牛奶",
+      "quantity": "100g",
+      "heat": "50",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "奶豆糕",
+      "quantity": "100g",
+      "heat": "120",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "羊奶",
+      "quantity": "100g",
+      "heat": "59",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "全脂牛奶粉",
+      "quantity": "100g",
+      "heat": "478",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "芝士片",
+      "quantity": "片",
+      "heat": "80",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "朱古力奶",
+      "quantity": "100ml",
+      "heat": "183",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "乳酸菌饮料",
+      "quantity": "100g",
+      "heat": "70",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    },
+    {
+      "typeId": 5,
+      "food": "乳酪",
+      "quantity": "100g",
+      "heat": "92",
+      "fat": 15,
+      "protein": 20,
+      "carbon": 10
+    }
+  ]
+}

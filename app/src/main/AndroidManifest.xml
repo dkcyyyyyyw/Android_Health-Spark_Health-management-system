@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.healthmanagement">
+
+    <!--允许应用访问网络，可进行联网功能（如数据同步、API 调用）-->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!--允许应用使用设备相机，通常用于拍照或录制视频功能-->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <!--允许应用识别用户的身体活动（如步行、跑步），常用于健康或运动追踪类应用-->
+    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+
+    <!--应用需要查询其他应用是否可以处理特定意图（如拍照或录制视频）-->
+    <queries package="com.example.healthmanagement">
+        <intent>
+            <action android:name="android.media.action.IMAGE_CAPTURE" />
+        </intent>
+        <intent>
+            <action android:name="android.media.action.ACTION_VIDEO_CAPTURE" />
+        </intent>
+    </queries>
+
+    <!--允许应用写入外部存储（如 SD 卡），用于保存图片、视频或其他文件。-->
+    <!--允许应用读取外部存储内容，用于访问用户已保存的文件-->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:icon="@mipmap/ic_launcher"
+        android:label="HealthSpark"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.example.healthmanagement.ui.activity.OpenActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.healthmanagement.ui.activity.LoginActivity" />
+        <activity android:name="com.example.healthmanagement.ui.activity.RegisterActivity" />
+        <activity
+            android:name="com.example.healthmanagement.ui.activity.MainActivity"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity android:name="com.example.healthmanagement.ui.activity.PasswordActivity" />
+        <activity android:name="com.example.healthmanagement.ui.activity.PersonActivity" />
+        <activity android:name="com.example.healthmanagement.ui.activity.MenuDetailActivity" />
+        <activity android:name="com.example.healthmanagement.ui.activity.FoodEnergyActivity" />
+        <activity android:name="com.example.healthmanagement.ui.activity.WeightRecordActivity" />
+        <activity android:name="com.example.healthmanagement.ui.activity.DietActivity" />
+        <activity android:name="com.example.healthmanagement.ui.activity.DietAnalysisActivity" />
+        <activity android:name="com.example.healthmanagement.ui.activity.LoseWeightActivity" />
+        <activity android:name="com.example.healthmanagement.ui.activity.LoseWeightDetailActivity" />
+        <activity android:name="com.example.healthmanagement.ui.activity.AddEatRecordActivity" />
+        <activity android:name="com.example.healthmanagement.ui.activity.AddFoodEnergyActivity" />
+        <activity android:name="com.example.healthmanagement.ui.activity.SportRecordActivity" />
+        <activity android:name="com.example.healthmanagement.ui.activity.HealthRecordActivity" />
+        <activity android:name="com.example.healthmanagement.ui.activity.AddHealthRecordActivity" />
+        <activity android:name="com.example.healthmanagement.ui.activity.LineHealthRecordActivity" />
+        <activity android:name="com.example.healthmanagement.ui.activity.SportRecordListActivity" />
+        <activity android:name="com.example.healthmanagement.ui.activity.MenuManagerActivity" />
+        <activity android:name="com.example.healthmanagement.ui.activity.ManagerActivity" />
+        <activity android:name="com.example.healthmanagement.ui.activity.ManagerUserActivity" />
+
+        <provider
+            android:name="com.luck.picture.lib.PictureFileProvider"
+            android:authorities="com.example.healthmanagement.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
+        <activity android:name="com.luck.picture.lib.PictureSelectorActivity" />
+        <activity android:name="com.luck.picture.lib.PictureSelectorWeChatStyleActivity" />
+        <activity
+            android:name="com.luck.picture.lib.PictureSelectorCameraEmptyActivity"
+            android:theme="@style/Picture.Theme.Translucent" />
+        <activity android:name="com.luck.picture.lib.PictureCustomCameraActivity" />
+        <activity android:name="com.luck.picture.lib.PicturePreviewActivity" />
+        <activity android:name="com.luck.picture.lib.PictureSelectorPreviewWeChatStyleActivity" />
+        <activity
+            android:name="com.luck.picture.lib.PictureVideoPlayActivity"
+            android:screenOrientation="sensor" />
+        <activity android:name="com.luck.picture.lib.PictureExternalPreviewActivity" />
+        <activity android:name="com.luck.picture.lib.PicturePlayAudioActivity" />
+        <activity
+            android:name="com.yalantis.ucrop.UCropActivity"
+            android:theme="@style/Base.Theme.NoActionBar" />
+        <activity
+            android:name="com.yalantis.ucrop.PictureMultiCuttingActivity"
+            android:theme="@style/Base.Theme.NoActionBar" />
+    </application>
+
+</manifest>

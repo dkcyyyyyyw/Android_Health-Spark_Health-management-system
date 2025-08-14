@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10.0dip">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_border_bottom"
+        android:orientation="horizontal"
+        android:paddingTop="15.0dip"
+        android:paddingBottom="15.0dip">
+
+        <TextView
+            android:layout_width="70.0dip"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="菜谱名"
+            android:textSize="14.0dip" />
+
+        <EditText
+            android:id="@id/et_name"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@null"
+            android:hint="请输入菜谱名"
+            android:singleLine="true"
+            android:textSize="14.0dip" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_border_bottom"
+        android:orientation="horizontal"
+        android:paddingTop="15.0dip"
+        android:paddingBottom="15.0dip">
+
+        <TextView
+            android:layout_width="70.0dip"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="封面链接"
+            android:textSize="14.0dip" />
+
+        <EditText
+            android:id="@+id/et_image"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@null"
+            android:hint="请输入封面链接"
+            android:singleLine="true"
+            android:textSize="14.0dip" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_border_bottom"
+        android:orientation="horizontal"
+        android:paddingTop="15.0dip"
+        android:paddingBottom="15.0dip">
+
+        <TextView
+            android:layout_width="70.0dip"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="菜谱链接"
+            android:textSize="14.0dip" />
+
+        <EditText
+            android:id="@+id/et_url"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@null"
+            android:hint="请输入菜谱名"
+            android:singleLine="true"
+            android:textSize="14.0dip" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="40.0dip"
+        android:layout_marginTop="10.0dip">
+
+        <Button
+            android:id="@id/btn_sure"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1.0"
+            android:background="@drawable/btn_border_fill"
+            android:text="确定"
+            android:textAllCaps="false"
+            android:textColor="@color/colorWhite"
+            android:textSize="14.0dip" />
+
+        <Button
+            android:id="@id/btn_cancel"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="12.0dip"
+            android:layout_weight="1.0"
+            android:background="@drawable/btn_border_fill"
+            android:text="取消"
+            android:textAllCaps="false"
+            android:textColor="@color/colorWhite"
+            android:textSize="14.0dip" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fitsSystemWindows="true"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50.0dip"
+            android:background="@color/colorPrimary"
+            android:paddingLeft="15.0dip"
+            android:paddingRight="15.0dip">
+
+            <ImageView
+                android:layout_width="25.0dip"
+                android:layout_height="25.0dip"
+                android:layout_alignParentLeft="true"
+                android:layout_centerInParent="true"
+                android:onClick="back"
+                android:src="@drawable/ic_back" />
+
+            <TextView
+                android:id="@id/tv_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="运动记录"
+                android:textColor="@color/colorWhite"
+                android:textSize="16.0dip" />
+
+            <ImageView
+                android:layout_width="25.0dip"
+                android:layout_height="25.0dip"
+                android:layout_alignParentRight="true"
+                android:layout_centerInParent="true"
+                android:onClick="sport"
+                android:src="@drawable/ic_record" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/sportStepPanel"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10.0dip"
+                android:layout_marginBottom="10.0dip"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content">
+
+                    <com.example.healthmanagement.view.SportStepView
+                        android:id="@+id/sportStepCount"
+                        android:layout_width="300.0dip"
+                        android:layout_height="300.0dip"
+                        android:layout_centerHorizontal="true" />
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/sportStepCountInfo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/btn_border_fill"
+                    android:paddingLeft="25.0dip"
+                    android:paddingTop="2.0dip"
+                    android:paddingRight="25.0dip"
+                    android:paddingBottom="2.0dip"
+                    android:text="未开始"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="14.0sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20.0dip"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:background="@drawable/btn_border_fill"
+                android:gravity="center"
+                android:onClick="onAction"
+                android:text="开始"
+                android:textColor="@color/colorWhite"
+                android:textSize="20.0sp" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10.0dip"
+                android:layout_weight="1.0"
+                android:background="@drawable/btn_border_fill"
+                android:gravity="center"
+                android:onClick="card"
+                android:text="打卡"
+                android:textColor="@color/colorWhite"
+                android:textSize="20.0sp" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

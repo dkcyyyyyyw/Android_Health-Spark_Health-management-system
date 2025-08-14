@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10.0dip">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_border_bottom"
+        android:orientation="horizontal"
+        android:paddingTop="15.0dip"
+        android:paddingBottom="15.0dip">
+
+        <TextView
+            android:layout_width="70.0dip"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="食物名"
+            android:textSize="14.0dip" />
+
+        <EditText
+            android:id="@+id/et_name"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@null"
+            android:hint="请输入食物名"
+            android:singleLine="true"
+            android:textSize="14.0dip" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_border_bottom"
+        android:orientation="horizontal"
+        android:paddingTop="15.0dip"
+        android:paddingBottom="15.0dip">
+
+        <TextView
+            android:layout_width="70.0dip"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="数量"
+            android:textSize="14.0dip" />
+
+        <EditText
+            android:id="@+id/et_quantity"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@null"
+            android:hint="请输入数量"
+            android:singleLine="true"
+            android:textSize="14.0dip" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_border_bottom"
+        android:orientation="horizontal"
+        android:paddingTop="15.0dip"
+        android:paddingBottom="15.0dip">
+
+        <TextView
+            android:layout_width="70.0dip"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="热量"
+            android:textSize="14.0dip" />
+
+        <EditText
+            android:id="@+id/et_heat"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@null"
+            android:hint="请输入热量"
+            android:singleLine="true"
+            android:textSize="14.0dip" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_border_bottom"
+        android:orientation="horizontal"
+        android:paddingTop="15.0dip"
+        android:paddingBottom="15.0dip">
+
+        <TextView
+            android:layout_width="70.0dip"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="脂肪"
+            android:textSize="14.0dip" />
+
+        <EditText
+            android:id="@+id/et_fat"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@null"
+            android:hint="请输入脂肪"
+            android:inputType="numberDecimal"
+            android:singleLine="true"
+            android:textSize="14.0dip" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_border_bottom"
+        android:orientation="horizontal"
+        android:paddingTop="15.0dip"
+        android:paddingBottom="15.0dip">
+
+        <TextView
+            android:layout_width="70.0dip"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="蛋白质"
+            android:textSize="14.0dip" />
+
+        <EditText
+            android:id="@+id/et_protein"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@null"
+            android:hint="请输入蛋白质"
+            android:inputType="numberDecimal"
+            android:singleLine="true"
+            android:textSize="14.0dip" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_border_bottom"
+        android:orientation="horizontal"
+        android:paddingTop="15.0dip"
+        android:paddingBottom="15.0dip">
+
+        <TextView
+            android:layout_width="70.0dip"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="碳水"
+            android:textSize="14.0dip" />
+
+        <EditText
+            android:id="@+id/et_carbon"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@null"
+            android:hint="请输入碳水"
+            android:inputType="numberDecimal"
+            android:singleLine="true"
+            android:textSize="14.0dip" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="40.0dip"
+        android:layout_marginTop="10.0dip">
+
+        <Button
+            android:id="@+id/btn_sure"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1.0"
+            android:background="@drawable/btn_border_fill"
+            android:text="确定"
+            android:textAllCaps="false"
+            android:textColor="@color/colorWhite"
+            android:textSize="14.0dip" />
+
+        <Button
+            android:id="@id/btn_cancel"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="12.0dip"
+            android:layout_weight="1.0"
+            android:background="@drawable/btn_border_fill"
+            android:text="取消"
+            android:textAllCaps="false"
+            android:textColor="@color/colorWhite"
+            android:textSize="14.0dip" />
+    </LinearLayout>
+</LinearLayout>
